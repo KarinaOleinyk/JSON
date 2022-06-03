@@ -1,1 +1,23 @@
+{ "title": "Translation problems", "problem": "The texts of errors on the form “Zvorotny zvorotnyy yazok” on the page https://itawards.ua/ua in the UA version of the site were not translated into Ukrainian",
+ "evidence": "Video", "Screenshot", "steps to play": "Open page https://itawards.ua/ua", "Scroll to the form “Zvorotny zvon’yazok”", "Click on the “Send” button", "Pay attention to the language of the errors that appeared under the form fields",
+ "Actualresult": "Errors are displayed in English", "ExpectedResult": "Errors are displayed in Ukrainian", "seriousness": "S1 (minor)"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
